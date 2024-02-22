@@ -1,5 +1,6 @@
 # Elias Works, 2024/2/22
-# Basic program to calculate average, standard deviation, standard error, and total error from a set of data. 
+# Basic program to calculate average, standard deviation, standard error, and total error from a set of data.
+# Might've messed up standard deviation.
 
 #dependancies
 import math
