@@ -1,4 +1,4 @@
-# intropythonprogram
+# introresearchproject
 Python project utilizing jupyter for undergraduate research.
 
 RASSVFS Match.ipynb - Jupyter notebook tutorial for my work in matching the Virgo Filament Survey (VFS) with the RASSCALS survey. (Hopefully) understandable and legible documentation of my work.
